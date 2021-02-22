@@ -1,0 +1,9 @@
+{
+    order mini before respond
+}
+
+http://localhost:8080
+mini
+root public
+file_server
+
